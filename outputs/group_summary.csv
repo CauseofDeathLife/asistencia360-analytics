@@ -1,0 +1,10 @@
+group_id,subject,mean_pct,median_pct,std_pct,n_students,prop_en_riesgo
+G1,Backend 2,86.47,88.56,10.86,32,28.12
+G1,Frontend 2,91.45,94.12,9.29,32,12.5
+G1,Nuevas Tecnologías,92.87,100.0,9.8,32,12.5
+G2,Backend 2,78.38,80.62,9.99,32,50.0
+G2,Frontend 2,90.82,94.12,7.0,32,9.38
+G2,Nuevas Tecnologías,86.43,83.33,7.57,32,21.88
+G3,Backend 2,79.14,77.78,11.53,32,56.25
+G3,Frontend 2,82.32,83.33,10.8,32,34.38
+G3,Nuevas Tecnologías,77.91,76.47,9.76,32,56.25

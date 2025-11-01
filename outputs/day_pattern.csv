@@ -1,0 +1,10 @@
+weekday,group_id,subject,P,A,J,total_effective,pct_asistencia
+Friday,G1,Nuevas Tecnologías,532,41,3,573,92.84
+Friday,G2,Frontend 2,509,51,16,560,90.89
+Friday,G3,Backend 2,447,118,11,565,79.12
+Monday,G1,Frontend 2,493,46,5,539,91.47
+Monday,G2,Backend 2,417,115,12,532,78.38
+Monday,G3,Nuevas Tecnologías,416,118,10,534,77.9
+Wednesday,G1,Backend 2,492,77,7,569,86.47
+Wednesday,G2,Nuevas Tecnologías,495,78,3,573,86.39
+Wednesday,G3,Frontend 2,465,100,11,565,82.3
