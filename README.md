@@ -1,7 +1,7 @@
 # Asistencia360 — Analítica
 
 Dashboard público para analizar asistencia académica con **Python + Pandas + Streamlit + Altair** (opcional **Matplotlib** ejecutiva).
-
+**Demo en vivo:** https://asistencia360-analytics.streamlit.app/ 
 **Repositorio:** https://github.com/CauseofDeathLife/asistencia360-analytics
 
 ---
